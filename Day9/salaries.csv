@@ -1,0 +1,166 @@
+company,job,degree,salary_more_then_100k
+google,marketing manager,bachelors,0
+google,marketing manager,masters,1
+abc pharma,sales executive,masters,0
+abc pharma,computer programmer,bachelors,0
+abc pharma,business manager,bachelors,0
+abc pharma,business manager,masters,1
+abc pharma,chemist,bachelors,0
+abc pharma,chemist,masters,0
+abc pharma,pharmacist,masters,1
+abc pharma,pharmacist,bachelors,1
+abc pharma,research scientist,masters,1
+abc pharma,research scientist,bachelors,0
+abc pharma,quality assurance manager,masters,1
+abc pharma,quality assurance manager,bachelors,1
+abc pharma,regulatory affairs specialist,masters,1
+abc pharma,regulatory affairs specialist,bachelors,0
+abc pharma,clinical trials coordinator,masters,0
+abc pharma,clinical trials coordinator,bachelors,0
+abc pharma,medical writer,masters,1
+abc pharma,medical writer,bachelors,0
+abc pharma,biostatistician,masters,1
+abc pharma,biostatistician,bachelors,1
+abc pharma,drug safety specialist,masters,1
+abc pharma,drug safety specialist,bachelors,0
+abc pharma,packaging engineer,masters,0
+facebook,sales executive,bachelors,1
+facebook,sales executive,masters,1
+facebook,business manager,bachelors,1
+facebook,business manager,masters,1
+facebook,computer programmer,bachelors,1
+facebook,computer programmer,masters,1
+facebook,product manager,bachelors,1
+facebook,product manager,masters,1
+facebook,designer,bachelors,0
+facebook,designer,masters,0
+facebook,data scientist,bachelors,1
+facebook,data scientist,masters,1
+facebook,marketing manager,bachelors,0
+facebook,marketing manager,masters,1
+facebook,software engineer,bachelors,1
+facebook,software engineer,masters,1
+facebook,data analyst,bachelors,0
+facebook,data analyst,masters,0
+facebook,operations manager,bachelors,1
+facebook,operations manager,masters,1
+facebook,financial analyst,bachelors,0
+facebook,financial analyst,masters,1
+facebook,HR manager,bachelors,0
+facebook,HR manager,masters,1
+facebook,legal advisor,bachelors,0
+facebook,legal advisor,masters,1
+facebook,consultant,bachelors,1
+facebook,consultant,masters,1
+facebook,security engineer,bachelors,1
+facebook,security engineer,masters,1
+facebook,systems administrator,bachelors,0
+facebook,systems administrator,masters,1
+facebook,marketing specialist,bachelors,0
+facebook,marketing specialist,masters,1
+facebook,technical support engineer,bachelors,0
+facebook,technical support engineer,masters,0
+facebook,data scientist,bachelors,1
+facebook,data scientist,masters,1
+facebook,software architect,bachelors,1
+facebook,software architect,masters,1
+facebook,project manager,bachelors,1
+facebook,project manager,masters,1
+facebook,quality assurance analyst,bachelors,0
+facebook,quality assurance analyst,masters,0
+facebook,UX designer,bachelors,0
+facebook,UX designer,masters,1
+facebook,account manager,bachelors,1
+facebook,account manager,masters,1
+facebook,product owner,bachelors,1
+facebook,product owner,masters,1
+abc pharma,packaging engineer,bachelors,0
+abc pharma,supply chain manager,masters,1
+abc pharma,supply chain manager,bachelors,1
+abc pharma,clinical data manager,masters,1
+abc pharma,clinical data manager,bachelors,0
+abc pharma,pharmacovigilance specialist,masters,1
+abc pharma,pharmacovigilance specialist,bachelors,0
+abc pharma,medical affairs director,masters,1
+abc pharma,medical affairs director,bachelors,1
+abc pharma,health economics analyst,masters,1
+abc pharma,health economics analyst,bachelors,0
+abc pharma,manufacturing technician,masters,0
+abc pharma,manufacturing technician,bachelors,0
+abc pharma,product manager,masters,1
+abc pharma,product manager,bachelors,1
+abc pharma,quality control analyst,masters,0
+abc pharma,quality control analyst,bachelors,0
+abc pharma,clinical research associate,masters,0
+abc pharma,clinical research associate,bachelors,0
+abc pharma,validation engineer,masters,1
+abc pharma,validation engineer,bachelors,0
+abc pharma,market access manager,masters,1
+abc pharma,market access manager,bachelors,1
+google,software engineer,bachelors,1
+google,software engineer,masters,1
+google,data analyst,bachelors,0
+google,data analyst,masters,0
+abc pharma,chemist,bachelors,0
+abc pharma,chemist,masters,0
+abc pharma,pharmacist,masters,1
+abc pharma,pharmacist,bachelors,1
+abc pharma,research scientist,masters,1
+facebook,product manager,bachelors,1
+facebook,product manager,masters,1
+google,sales executive,bachelors,0
+google,sales executive,masters,0
+google,business manager,bachelors,1
+google,business manager,masters,1
+google,computer programmer,bachelors,0
+google,computer programmer,masters,1
+google,marketing manager,bachelors,1
+google,marketing manager,masters,1
+google,software engineer,bachelors,1
+google,software engineer,masters,1
+google,data analyst,bachelors,0
+google,data analyst,masters,0
+google,operations manager,bachelors,1
+google,operations manager,masters,1
+google,financial analyst,bachelors,0
+google,financial analyst,masters,1
+google,HR manager,bachelors,0
+google,HR manager,masters,1
+google,legal advisor,bachelors,0
+google,legal advisor,masters,1
+google,consultant,bachelors,1
+google,consultant,masters,1
+google,security engineer,bachelors,1
+google,security engineer,masters,1
+google,systems administrator,bachelors,0
+google,systems administrator,masters,1
+google,marketing specialist,bachelors,0
+google,marketing specialist,masters,1
+google,technical support engineer,bachelors,0
+google,technical support engineer,masters,0
+google,data scientist,bachelors,1
+google,data scientist,masters,1
+google,software architect,bachelors,1
+google,software architect,masters,1
+google,project manager,bachelors,1
+google,project manager,masters,1
+google,quality assurance analyst,bachelors,0
+google,quality assurance analyst,masters,0
+google,UX designer,bachelors,0
+google,UX designer,masters,1
+google,account manager,bachelors,1
+google,account manager,masters,1
+google,product owner,bachelors,1
+google,product owner,masters,1
+google,marketing analyst,bachelors,0
+google,marketing analyst,masters,0
+google,communications manager,bachelors,1
+google,communications manager,masters,1
+google,web developer,bachelors,0
+google,web developer,masters,1
+google,UI designer,bachelors,0
+google,UI designer,masters,1
+facebook,designer,bachelors,0
+facebook,designer,masters,0
+facebook,data scientist,bachelors,1
+facebook,data scientist,masters,1
